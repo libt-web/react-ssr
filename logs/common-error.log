@@ -1,0 +1,541 @@
+2018-06-27 14:29:38,085 ERROR 12444 [-/127.0.0.1/-/7ms GET /ssr] nodejs.Error: read webpack memory file[E:\react_server2\ecserver\app\view\ssr.js] content is empty, please check if the file exists
+    at E:\react_server2\ecserver\node_modules\egg-webpack-react\app.js:20:17
+    at Generator.next (<anonymous>)
+    at onFulfilled (E:\react_server2\ecserver\node_modules\co\index.js:65:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 12444
+hostname: RD-libotao
+
+2018-06-27 14:31:54,833 ERROR 1032 [-/127.0.0.1/-/5ms GET /ssr] nodejs.Error: read webpack memory file[E:\react_server2\ecserver\app\view\ssr.js] content is empty, please check if the file exists
+    at E:\react_server2\ecserver\node_modules\egg-webpack-react\app.js:20:17
+    at Generator.next (<anonymous>)
+    at onFulfilled (E:\react_server2\ecserver\node_modules\co\index.js:65:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 1032
+hostname: RD-libotao
+
+2018-06-27 15:06:56,555 ERROR 684 [-/127.0.0.1/-/5ms GET /ssr] nodejs.Error: read webpack memory file[E:\react_server2\ecserver\app\view\ssr.js] content is empty, please check if the file exists
+    at E:\react_server2\ecserver\node_modules\egg-webpack-react\app.js:20:17
+    at Generator.next (<anonymous>)
+    at onFulfilled (E:\react_server2\ecserver\node_modules\co\index.js:65:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 684
+hostname: RD-libotao
+
+2018-06-27 15:10:52,475 ERROR 15148 [-/127.0.0.1/-/4ms GET /ssr] nodejs.Error: read webpack memory file[E:\react_server2\ecserver\app\view\ssr.js] content is empty, please check if the file exists
+    at E:\react_server2\ecserver\node_modules\egg-webpack-react\app.js:20:17
+    at Generator.next (<anonymous>)
+    at onFulfilled (E:\react_server2\ecserver\node_modules\co\index.js:65:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 15148
+hostname: RD-libotao
+
+2018-06-27 15:16:08,832 ERROR 12108 [-/127.0.0.1/-/53ms GET /applist] nodejs.ReferenceError: regeneratorRuntime is not defined
+    at evalmachine.<anonymous>:235:34
+    at Object.module.exports.Object.defineProperty.value (evalmachine.<anonymous>:261:2)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at evalmachine.<anonymous>:64:18
+    at evalmachine.<anonymous>:67:10
+    at E:\react_server2\ecserver\node_modules\egg-webpack-react\app.js:23:37
+    at Generator.next (<anonymous>)
+    at onFulfilled (E:\react_server2\ecserver\node_modules\co\index.js:65:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 12108
+hostname: RD-libotao
+
+2018-06-28 11:42:46,765 ERROR 11112 [-/127.0.0.1/-/197ms GET /applist] nodejs.TypeError: Symbol is not a constructor
+    at new Symbol (<anonymous>)
+    at F (E:\react_server2\ecserver\node_modules\core-js\library\modules\_export.js:35:28)
+    at Object.<anonymous> (evalmachine.<anonymous>:1921:35)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at Object.module.exports.exports.__esModule (evalmachine.<anonymous>:1765:19)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at Object.<anonymous> (evalmachine.<anonymous>:1715:13)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at Object.<anonymous> (evalmachine.<anonymous>:1414:14)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+
+pid: 11112
+hostname: RD-libotao
+
+2018-06-28 11:43:28,589 ERROR 11112 [-/127.0.0.1/-/14ms GET /applist] nodejs.ReferenceError: window is not defined
+    at Object.<anonymous> (evalmachine.<anonymous>:1721:95)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at Object.<anonymous> (evalmachine.<anonymous>:1414:14)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at module.exports.module.exports.version (evalmachine.<anonymous>:64:18)
+    at evalmachine.<anonymous>:67:10
+    at E:\react_server2\ecserver\node_modules\egg-webpack-react\app.js:23:37
+    at Generator.next (<anonymous>)
+    at onFulfilled (E:\react_server2\ecserver\node_modules\co\index.js:65:19)
+    at <anonymous>
+
+pid: 11112
+hostname: RD-libotao
+
+2018-06-28 11:45:02,580 ERROR 11112 [-/127.0.0.1/-/5ms GET /applist] nodejs.ReferenceError: window is not defined
+    at Object.<anonymous> (evalmachine.<anonymous>:1721:95)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at Object.<anonymous> (evalmachine.<anonymous>:1414:14)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at module.exports.module.exports.version (evalmachine.<anonymous>:64:18)
+    at evalmachine.<anonymous>:67:10
+    at E:\react_server2\ecserver\node_modules\egg-webpack-react\app.js:23:37
+    at Generator.next (<anonymous>)
+    at onFulfilled (E:\react_server2\ecserver\node_modules\co\index.js:65:19)
+    at <anonymous>
+
+pid: 11112
+hostname: RD-libotao
+
+2018-06-28 11:47:12,716 ERROR 15376 [-/127.0.0.1/-/174ms GET /applist] nodejs.ReferenceError: window is not defined
+    at Object.<anonymous> (evalmachine.<anonymous>:1721:95)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at Object.<anonymous> (evalmachine.<anonymous>:1414:14)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at module.exports.module.exports.version (evalmachine.<anonymous>:64:18)
+    at evalmachine.<anonymous>:67:10
+    at E:\react_server2\ecserver\node_modules\egg-webpack-react\app.js:23:37
+    at Generator.next (<anonymous>)
+    at onFulfilled (E:\react_server2\ecserver\node_modules\co\index.js:65:19)
+    at <anonymous>
+
+pid: 15376
+hostname: RD-libotao
+
+2018-06-28 11:49:27,088 ERROR 9172 [-/127.0.0.1/-/173ms GET /applist] nodejs.ReferenceError: window is not defined
+    at Object.<anonymous> (evalmachine.<anonymous>:1721:95)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at Object.<anonymous> (evalmachine.<anonymous>:1414:14)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at module.exports.module.exports.version (evalmachine.<anonymous>:64:18)
+    at evalmachine.<anonymous>:67:10
+    at E:\react_server2\ecserver\node_modules\egg-webpack-react\app.js:23:37
+    at Generator.next (<anonymous>)
+    at onFulfilled (E:\react_server2\ecserver\node_modules\co\index.js:65:19)
+    at <anonymous>
+
+pid: 9172
+hostname: RD-libotao
+
+2018-06-28 11:52:03,082 ERROR 9172 [-/127.0.0.1/-/14ms GET /applist] nodejs.ReferenceError: window is not defined
+    at Object.<anonymous> (evalmachine.<anonymous>:1722:95)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at Object.<anonymous> (evalmachine.<anonymous>:1414:14)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at module.exports.module.exports.version (evalmachine.<anonymous>:64:18)
+    at evalmachine.<anonymous>:67:10
+    at E:\react_server2\ecserver\node_modules\egg-webpack-react\app.js:23:37
+    at Generator.next (<anonymous>)
+    at onFulfilled (E:\react_server2\ecserver\node_modules\co\index.js:65:19)
+    at <anonymous>
+
+pid: 9172
+hostname: RD-libotao
+
+2018-06-28 11:52:05,366 ERROR 9172 [-/127.0.0.1/-/7ms GET /applist] nodejs.ReferenceError: window is not defined
+    at Object.<anonymous> (evalmachine.<anonymous>:1722:95)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at Object.<anonymous> (evalmachine.<anonymous>:1414:14)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at module.exports.module.exports.version (evalmachine.<anonymous>:64:18)
+    at evalmachine.<anonymous>:67:10
+    at E:\react_server2\ecserver\node_modules\egg-webpack-react\app.js:23:37
+    at Generator.next (<anonymous>)
+    at onFulfilled (E:\react_server2\ecserver\node_modules\co\index.js:65:19)
+    at <anonymous>
+
+pid: 9172
+hostname: RD-libotao
+
+2018-06-28 11:52:18,326 ERROR 9172 [-/127.0.0.1/-/12ms GET /applist] nodejs.ReferenceError: window is not defined
+    at Object.<anonymous> (evalmachine.<anonymous>:1722:95)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at Object.<anonymous> (evalmachine.<anonymous>:1414:14)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at module.exports.module.exports.version (evalmachine.<anonymous>:64:18)
+    at evalmachine.<anonymous>:67:10
+    at E:\react_server2\ecserver\node_modules\egg-webpack-react\app.js:23:37
+    at Generator.next (<anonymous>)
+    at onFulfilled (E:\react_server2\ecserver\node_modules\co\index.js:65:19)
+    at <anonymous>
+
+pid: 9172
+hostname: RD-libotao
+
+2018-06-28 11:52:43,714 ERROR 9848 [-/127.0.0.1/-/181ms GET /applist] nodejs.ReferenceError: window is not defined
+    at Object.<anonymous> (evalmachine.<anonymous>:1722:95)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at Object.<anonymous> (evalmachine.<anonymous>:1414:14)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at module.exports.module.exports.version (evalmachine.<anonymous>:64:18)
+    at evalmachine.<anonymous>:67:10
+    at E:\react_server2\ecserver\node_modules\egg-webpack-react\app.js:23:37
+    at Generator.next (<anonymous>)
+    at onFulfilled (E:\react_server2\ecserver\node_modules\co\index.js:65:19)
+    at <anonymous>
+
+pid: 9848
+hostname: RD-libotao
+
+2018-06-28 11:53:04,037 ERROR 9848 [-/127.0.0.1/-/13ms GET /applist] nodejs.ReferenceError: window is not defined
+    at Object.<anonymous> (evalmachine.<anonymous>:1722:95)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at Object.<anonymous> (evalmachine.<anonymous>:1414:14)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at module.exports.module.exports.version (evalmachine.<anonymous>:64:18)
+    at evalmachine.<anonymous>:67:10
+    at E:\react_server2\ecserver\node_modules\egg-webpack-react\app.js:23:37
+    at Generator.next (<anonymous>)
+    at onFulfilled (E:\react_server2\ecserver\node_modules\co\index.js:65:19)
+    at <anonymous>
+
+pid: 9848
+hostname: RD-libotao
+
+2018-06-28 14:40:48,348 ERROR 6648 [-/127.0.0.1/-/201ms GET /my/applist] nodejs.TypeError: list.map is not a function
+    at Applist.render (evalmachine.<anonymous>:1645:22)
+    at processChild (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2204:18)
+    at resolve (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2061:5)
+    at ReactDOMServerRenderer.render (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2380:22)
+    at ReactDOMServerRenderer.read (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2354:19)
+    at Object.renderToString (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2726:25)
+    at Engine.renderToString (E:\react_server2\ecserver\node_modules\egg-view-react-ssr\lib\engine.js:66:27)
+    at reactElement.then.element (E:\react_server2\ecserver\node_modules\egg-view-react-ssr\lib\engine.js:54:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 6648
+hostname: RD-libotao
+
+2018-06-28 14:41:30,288 ERROR 14520 [-/127.0.0.1/-/207ms GET /my/applist] nodejs.TypeError: list.map is not a function
+    at Applist.render (evalmachine.<anonymous>:1645:22)
+    at processChild (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2204:18)
+    at resolve (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2061:5)
+    at ReactDOMServerRenderer.render (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2380:22)
+    at ReactDOMServerRenderer.read (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2354:19)
+    at Object.renderToString (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2726:25)
+    at Engine.renderToString (E:\react_server2\ecserver\node_modules\egg-view-react-ssr\lib\engine.js:66:27)
+    at reactElement.then.element (E:\react_server2\ecserver\node_modules\egg-view-react-ssr\lib\engine.js:54:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 14520
+hostname: RD-libotao
+
+2018-06-28 14:42:05,773 ERROR 14520 [-/127.0.0.1/-/10ms GET /my/applist] nodejs.TypeError: list.map is not a function
+    at Applist.render (evalmachine.<anonymous>:1645:22)
+    at processChild (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2204:18)
+    at resolve (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2061:5)
+    at ReactDOMServerRenderer.render (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2380:22)
+    at ReactDOMServerRenderer.read (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2354:19)
+    at Object.renderToString (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2726:25)
+    at Engine.renderToString (E:\react_server2\ecserver\node_modules\egg-view-react-ssr\lib\engine.js:66:27)
+    at reactElement.then.element (E:\react_server2\ecserver\node_modules\egg-view-react-ssr\lib\engine.js:54:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 14520
+hostname: RD-libotao
+
+2018-06-28 15:30:43,940 ERROR 11892 [-/127.0.0.1/-/280ms GET /my/applist] nodejs.TypeError: list.map is not a function
+    at Applist.render (evalmachine.<anonymous>:1645:22)
+    at processChild (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2204:18)
+    at resolve (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2061:5)
+    at ReactDOMServerRenderer.render (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2380:22)
+    at ReactDOMServerRenderer.read (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2354:19)
+    at Object.renderToString (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2726:25)
+    at Engine.renderToString (E:\react_server2\ecserver\node_modules\egg-view-react-ssr\lib\engine.js:66:27)
+    at reactElement.then.element (E:\react_server2\ecserver\node_modules\egg-view-react-ssr\lib\engine.js:54:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 11892
+hostname: RD-libotao
+
+2018-06-28 15:30:45,035 ERROR 11892 nodejs.JSONResponseFormatError: Unexpected token < in JSON at position 0 (data json format: "<!DOCTYPE html>\n<html>\n    <head>\n        <meta charset=\"UTF-8\" />\n        <meta http-equiv=\"refresh\" content=\"1;url=https://www.workec.com/login?from=&amp;jumpurl=http%3A%2F%2Fdata2.workec.com%2Fapp%2Flist\" />\n\n        <title>Redirecting to https://www.workec.com/login?from=&amp;jumpurl=http%3A%2F%2Fdata2.workec.com%2Fapp%2Flist</title>\n    </head>\n    <body>\n        Redirecting to <a href=\"https://www.workec.com/login?from=&amp;jumpurl=http%3A%2F%2Fdata2.workec.com%2Fapp%2Flist\">https://www.workec.com/login?from=&amp;jumpurl=http%3A%2F%2Fdata2.workec.com%2Fapp%2Flist</a>.\n    </body>\n</html>"), GET https://data2.workec.com/app/list 302 (connected: true, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":0,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{"data2.workec.com:443:::::::::":1},"requests":{}})
+headers: {"server":"nginx","date":"Thu, 28 Jun 2018 07:30:55 GMT","content-type":"text/html; charset=UTF-8","transfer-encoding":"chunked","connection":"keep-alive","set-cookie":["PHPSESSID=84tpshsh1r3n55eh1pvfsmr80r2tr5ck; path=/; domain=workec.com; HttpOnly","XSRF-TOKEN=eyJpdiI6IldyK2txZEUxeHNqXC91Q3UyXC96TXY0Zz09IiwidmFsdWUiOiI0U3h3ZmJSZG1NcnVueGlxQWMxMjBKTlErNFdvRnlZN3BxaWlrMWxJaVdQODZSSDRlMExlaElZWnFaZ3Q3YXo3cHdjRTBrWWhydXpYY0RjcERVbkRqQT09IiwibWFjIjoiZDI1NjZiMjcyMjcyY2I4YjFlZjMxMzI2YTIzYjhiNzg5YjZiNTJhMWI2YTY5MGE1OTU4ZjRlNzFiNmU4YWYyZCJ9; expires=Thu, 28-Jun-2018 09:30:55 GMT; Max-Age=7200; path=/; domain=workec.com","ecweb_session=eyJpdiI6ImhRSlhyb2ppMHBLRVp1QUVRdHNxeHc9PSIsInZhbHVlIjoidGxJM2dZOUJJbmRpN05VYmZhNm5HN3c5OVZZV3J5VWZsVnhwT1ZmTnVlSjJ4NHpYTlptaEQxdVZDRTgwcTBVUk9CclwvcWN5dmJQb2tCS2dhdVpsaU9RPT0iLCJtYWMiOiJmN2I5ODIyZjllYTViZTU2NzFkNzQyZjk4ZTFkZDg3YjUyYmM2YmY2ZDk5ZGIyMzMyNzBkMzAwMDI0ODA5MmRiIn0%3D; expires=Thu, 28-Jun-2018 09:30:55 GMT; Max-Age=7200; path=/; domain=workec.com; HttpOnly"],"expires":"Thu, 19 Nov 1981 08:52:00 GMT","cache-control":"no-store, no-cache, must-revalidate, private, must-revalidate","pragma":"no-cache, no-cache","location":"https://www.workec.com/login?from=&jumpurl=http%3A%2F%2Fdata2.workec.com%2Fapp%2Flist","x-powered-by":"dev-lnmp-145","x-request-id":"5e484c6d25715134dcf256b0200be949"}
+headers: {"server":"nginx","date":"Thu, 28 Jun 2018 07:30:55 GMT","content-type":"text/html; charset=UTF-8","transfer-encoding":"chunked","connection":"keep-alive","set-cookie":["PHPSESSID=84tpshsh1r3n55eh1pvfsmr80r2tr5ck; path=/; domain=workec.com; HttpOnly","XSRF-TOKEN=eyJpdiI6IldyK2txZEUxeHNqXC91Q3UyXC96TXY0Zz09IiwidmFsdWUiOiI0U3h3ZmJSZG1NcnVueGlxQWMxMjBKTlErNFdvRnlZN3BxaWlrMWxJaVdQODZSSDRlMExlaElZWnFaZ3Q3YXo3cHdjRTBrWWhydXpYY0RjcERVbkRqQT09IiwibWFjIjoiZDI1NjZiMjcyMjcyY2I4YjFlZjMxMzI2YTIzYjhiNzg5YjZiNTJhMWI2YTY5MGE1OTU4ZjRlNzFiNmU4YWYyZCJ9; expires=Thu, 28-Jun-2018 09:30:55 GMT; Max-Age=7200; path=/; domain=workec.com","ecweb_session=eyJpdiI6ImhRSlhyb2ppMHBLRVp1QUVRdHNxeHc9PSIsInZhbHVlIjoidGxJM2dZOUJJbmRpN05VYmZhNm5HN3c5OVZZV3J5VWZsVnhwT1ZmTnVlSjJ4NHpYTlptaEQxdVZDRTgwcTBVUk9CclwvcWN5dmJQb2tCS2dhdVpsaU9RPT0iLCJtYWMiOiJmN2I5ODIyZjllYTViZTU2NzFkNzQyZjk4ZTFkZDg3YjUyYmM2YmY2ZDk5ZGIyMzMyNzBkMzAwMDI0ODA5MmRiIn0%3D; expires=Thu, 28-Jun-2018 09:30:55 GMT; Max-Age=7200; path=/; domain=workec.com; HttpOnly"],"expires":"Thu, 19 Nov 1981 08:52:00 GMT","cache-control":"no-store, no-cache, must-revalidate, private, must-revalidate","pragma":"no-cache, no-cache","location":"https://www.workec.com/login?from=&jumpurl=http%3A%2F%2Fdata2.workec.com%2Fapp%2Flist","x-powered-by":"dev-lnmp-145","x-request-id":"5e484c6d25715134dcf256b0200be949"}
+    at JSON.parse (<anonymous>)
+    at parseJSON (E:\react_server2\ecserver\node_modules\urllib\lib\urllib.js:1006:24)
+    at E:\react_server2\ecserver\node_modules\urllib\lib\urllib.js:758:23
+    at decodeContent (E:\react_server2\ecserver\node_modules\urllib\lib\urllib.js:571:14)
+    at IncomingMessage.<anonymous> (E:\react_server2\ecserver\node_modules\urllib\lib\urllib.js:739:7)
+    at emitNone (events.js:110:20)
+    at IncomingMessage.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1059:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+name: 'JSONResponseFormatError'
+data: '<!DOCTYPE html>\n<html>\n    <head>\n        <meta charset="UTF-8" />\n        <meta http-equiv="refresh" content="1;url=https://www.workec.com/login?from=&amp;jumpurl=http%3A%2F%2Fdata2.workec.com%2Fapp%2Flist" />\n\n        <title>Redirecting to https://www.workec.com/login?from=&amp;jumpurl=http%3A%2F%2Fdata2.workec.com%2Fapp%2Flist</title>\n    </head>\n    <body>\n        Redirecting to <a href="https://www.workec.com/login?from=&amp;jumpurl=http%3A%2F%2Fdata2.workec.com%2Fapp%2Flist">https://www.workec.com/login?from=&amp;jumpurl=http%3A%2F%2Fdata2.workec.com%2Fapp%2Flist</a>.\n    </body>\n</html>'
+path: '/app/list'
+status: 302
+headers: { server: 'nginx', date: 'Thu, 28 Jun 2018 07:30:55 GMT', 'content-type': 'text/html; charset=UTF-8', 'transfer-encoding': 'chunked', connection: 'keep-alive', 'set-cookie': [ 'PHPSESSID=84tpshsh1r3n55eh1pvfsmr80r2tr5ck; path=/; domain=workec.com; HttpOnly', 'XSRF-TOKEN=eyJpdiI6IldyK2txZEUxeHNqXC91Q3UyXC96TXY0Zz09IiwidmFsdWUiOiI0U3h3ZmJSZG1NcnVueGlxQWMxMjBKTlErNFdvRnlZN3BxaWlrMWxJaVdQODZSSDRlMExlaElZWnFaZ3Q3YXo3cHdjRTBrWWhydXpYY0RjcERVbkRqQT09IiwibWFjIjoiZDI1NjZiMjcyMjcyY2I4YjFlZjMxMzI2YTIzYjhiNzg5YjZiNTJhMWI2YTY5MGE1OTU4ZjRlNzFiNmU4YWYyZCJ9; expires=Thu, 28-Jun-2018 09:30:55 GMT; Max-Age=7200; path=/; domain=workec.com', 'ecweb_session=eyJpdiI6ImhRSlhyb2ppMHBLRVp1QUVRdHNxeHc9PSIsInZhbHVlIjoidGxJM2dZOUJJbmRpN05VYmZhNm5HN3c5OVZZV3J5VWZsVnhwT1ZmTnVlSjJ4NHpYTlptaEQxdVZDRTgwcTBVUk9CclwvcWN5dmJQb2tCS2dhdVpsaU9RPT0iLCJtYWMiOiJmN2I5ODIyZjllYTViZTU2NzFkNzQyZjk4ZTFkZDg3YjUyYmM2YmY2ZDk5ZGIyMzMyNzBkMzAwMDI0ODA5MmRiIn0%3D; expires=Thu, 28-Jun-2018 09:30:55 GMT; Max-Age=7200; path=/; domain=workec.com; HttpOnly' ], expires: 'Thu, 19 Nov 1981 08:52:00 GMT', 'cache-control': 'no-store, no-cache, must-revalidate, private, must-revalidate', pragma: 'no-cache, no-cache', location: 'https://www.workec.com/login?from=&jumpurl=http%3A%2F%2Fdata2.workec.com%2Fapp%2Flist', 'x-powered-by': 'dev-lnmp-145', 'x-request-id': '5e484c6d25715134dcf256b0200be949' }
+res: { status: 302, statusCode: 302, headers: { server: 'nginx', date: 'Thu, 28 Jun 2018 07:30:55 GMT', 'content-type': 'text/html; charset=UTF-8', 'transfer-encoding': 'chunked', connection: 'keep-alive', 'set-cookie': [ 'PHPSESSID=84tpshsh1r3n55eh1pvfsmr80r2tr5ck; path=/; domain=workec.com; HttpOnly', 'XSRF-TOKEN=eyJpdiI6IldyK2txZEUxeHNqXC91Q3UyXC96TXY0Zz09IiwidmFsdWUiOiI0U3h3ZmJSZG1NcnVueGlxQWMxMjBKTlErNFdvRnlZN3BxaWlrMWxJaVdQODZSSDRlMExlaElZWnFaZ3Q3YXo3cHdjRTBrWWhydXpYY0RjcERVbkRqQT09IiwibWFjIjoiZDI1NjZiMjcyMjcyY2I4YjFlZjMxMzI2YTIzYjhiNzg5YjZiNTJhMWI2YTY5MGE1OTU4ZjRlNzFiNmU4YWYyZCJ9; expires=Thu, 28-Jun-2018 09:30:55 GMT; Max-Age=7200; path=/; domain=workec.com', 'ecweb_session=eyJpdiI6ImhRSlhyb2ppMHBLRVp1QUVRdHNxeHc9PSIsInZhbHVlIjoidGxJM2dZOUJJbmRpN05VYmZhNm5HN3c5OVZZV3J5VWZsVnhwT1ZmTnVlSjJ4NHpYTlptaEQxdVZDRTgwcTBVUk9CclwvcWN5dmJQb2tCS2dhdVpsaU9RPT0iLCJtYWMiOiJmN2I5ODIyZjllYTViZTU2NzFkNzQyZjk4ZTFkZDg3YjUyYmM2YmY2ZDk5ZGIyMzMyNzBkMzAwMDI0ODA5MmRiIn0%3D; expires=Thu, 28-Jun-2018 09:30:55 GMT; Max-Age=7200; path=/; domain=workec.com; HttpOnly' ], expires: 'Thu, 19 Nov 1981 08:52:00 GMT', 'cache-control': 'no-store, no-cache, must-revalidate, private, must-revalidate', pragma: 'no-cache, no-cache', location: 'https://www.workec.com/login?from=&jumpurl=http%3A%2F%2Fdata2.workec.com%2Fapp%2Flist', 'x-powered-by': 'dev-lnmp-145', 'x-request-id': '5e484c6d25715134dcf256b0200be949' }, size: 600, aborted: false, rt: 1360, keepAliveSocket: false, data: '<!DOCTYPE html>\n<html>\n    <head>\n        <meta charset="UTF-8" />\n        <meta http-equiv="refresh" content="1;url=https://www.workec.com/login?from=&amp;jumpurl=http%3A%2F%2Fdata2.workec.com%2Fapp%2Flist" />\n\n        <title>Redirecting to https://www.workec.com/login?from=&amp;jumpurl=http%3A%2F%2Fdata2.workec.com%2Fapp%2Flist</title>\n    </head>\n    <body>\n        Redirecting to <a href="https://www.workec.com/login?from=&amp;jumpurl=http%3A%2F%2Fdata2.workec.com%2Fapp%2Flist">https://www.workec.com/login?from=&amp;jumpurl=http%3A%2F%2Fdata2.workec.com%2Fapp%2Flist</a>.\n    </body>\n</html>', requestUrls: [ 'https://data2.workec.com/app/list' ], timing: null, remoteAddress: '192.168.1.145', remotePort: 443 }
+pid: 11892
+hostname: RD-libotao
+
+2018-06-28 15:33:44,719 ERROR 13516 nodejs.ReferenceError: cookie is not defined
+    at MyService.getAppList (E:\react_server2\ecserver\app\service\my.js:18:38)
+    at HomeController.applist (E:\react_server2\ecserver\app\controller\my.js:5:41)
+    at Object.callFn (E:\react_server2\ecserver\node_modules\egg-core\lib\utils\index.js:36:21)
+    at Object.classControllerMiddleware (E:\react_server2\ecserver\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\react_server2\ecserver\node_modules\egg-core\lib\utils\index.js:36:21)
+    at wrappedController (E:\react_server2\ecserver\node_modules\egg-core\lib\utils\router.js:322:18)
+    at dispatch (E:\react_server2\ecserver\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (E:\react_server2\ecserver\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at E:\react_server2\ecserver\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (E:\react_server2\ecserver\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+
+pid: 13516
+hostname: RD-libotao
+
+2018-06-28 15:33:44,895 ERROR 13516 [-/127.0.0.1/-/184ms GET /my/applist] nodejs.TypeError: list.map is not a function
+    at Applist.render (evalmachine.<anonymous>:1645:22)
+    at processChild (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2204:18)
+    at resolve (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2061:5)
+    at ReactDOMServerRenderer.render (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2380:22)
+    at ReactDOMServerRenderer.read (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2354:19)
+    at Object.renderToString (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2726:25)
+    at Engine.renderToString (E:\react_server2\ecserver\node_modules\egg-view-react-ssr\lib\engine.js:66:27)
+    at reactElement.then.element (E:\react_server2\ecserver\node_modules\egg-view-react-ssr\lib\engine.js:54:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 13516
+hostname: RD-libotao
+
+2018-06-28 15:34:26,887 ERROR 5268 [-/127.0.0.1/-/204ms GET /my/applist] nodejs.TypeError: list.map is not a function
+    at Applist.render (evalmachine.<anonymous>:1645:22)
+    at processChild (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2204:18)
+    at resolve (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2061:5)
+    at ReactDOMServerRenderer.render (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2380:22)
+    at ReactDOMServerRenderer.read (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2354:19)
+    at Object.renderToString (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2726:25)
+    at Engine.renderToString (E:\react_server2\ecserver\node_modules\egg-view-react-ssr\lib\engine.js:66:27)
+    at reactElement.then.element (E:\react_server2\ecserver\node_modules\egg-view-react-ssr\lib\engine.js:54:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 5268
+hostname: RD-libotao
+
+2018-06-28 15:34:27,539 ERROR 5268 nodejs.JSONResponseFormatError: Unexpected token < in JSON at position 0 (data json format: "<!DOCTYPE html>\n<html>\n    <head>\n        <meta charset=\"UTF-8\" />\n        <meta http-equiv=\"refresh\" content=\"1;url=https://www.workec.com/login?from=&amp;jumpurl=http%3A%2F%2Fdata2.workec.com%2Fapp%2Flist\" />\n\n        <title>Redirecting to https://www.workec.com/login?from=&amp;jumpurl=http%3A%2F%2Fdata2.workec.com%2Fapp%2Flist</title>\n    </head>\n    <body>\n        Redirecting to <a href=\"https://www.workec.com/login?from=&amp;jumpurl=http%3A%2F%2Fdata2.workec.com%2Fapp%2Flist\">https://www.workec.com/login?from=&amp;jumpurl=http%3A%2F%2Fdata2.workec.com%2Fapp%2Flist</a>.\n    </body>\n</html>"), GET https://data2.workec.com/app/list 302 (connected: true, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":0,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{"data2.workec.com:443:::::::::":1},"requests":{}})
+headers: {"server":"nginx","date":"Thu, 28 Jun 2018 07:34:37 GMT","content-type":"text/html; charset=UTF-8","transfer-encoding":"chunked","connection":"keep-alive","expires":"Thu, 19 Nov 1981 08:52:00 GMT","cache-control":"no-store, no-cache, must-revalidate, private, must-revalidate","pragma":"no-cache, no-cache","location":"https://www.workec.com/login?from=&jumpurl=http%3A%2F%2Fdata2.workec.com%2Fapp%2Flist","set-cookie":["XSRF-TOKEN=eyJpdiI6IlRUN3hiY2s4SDdkRm4zeXFFUTRFYXc9PSIsInZhbHVlIjoiXC84cCtDSklYNGRIS2duQjhCekIyeVNBOEZCTFJ5SU5FckJQRjBYTkRXTmVVQzNyS29NSEtGRHR6bnBjY3RLbDNBZGNIYkZSbHVRWmZoNEo3WWdKdXVBPT0iLCJtYWMiOiJmZTc0MTA2NDYwMGMzOWQxYTA5NTIzYWJhYmQxMDQxNDRkNmEyZTkxYTdmYzUyMDJjMWRlNGRiY2I1OGE4YjU1In0%3D; expires=Thu, 28-Jun-2018 09:34:37 GMT; Max-Age=7200; path=/; domain=workec.com","ecweb_session=eyJpdiI6IjBFbmlqZGh5d09lY1VHYUVFV1F3Z2c9PSIsInZhbHVlIjoiaVBCcnVmUTBUUTl5VStpYkl1RzNzV2E2QTZyMU1qeUJSQzRcL0VGbWdqUGtXNW01ekltdDJMNnBkOE40UzdYNFpyS0Y0Z3ZISURKSTl2Vm5GdGZKbFBnPT0iLCJtYWMiOiIyNWY3YWQ0YzdjOTJiYTE1NjljYmUwNDA2ODAyZDlkNDlmZjE2MzM1MzViZTZjMTAxNzVmMTBhYWI5NGExYzM5In0%3D; expires=Thu, 28-Jun-2018 09:34:37 GMT; Max-Age=7200; path=/; domain=workec.com; HttpOnly"],"x-powered-by":"dev-lnmp-145","x-request-id":"8b1ac6cab56e88c5e0ad9d91aec99d88"}
+headers: {"server":"nginx","date":"Thu, 28 Jun 2018 07:34:37 GMT","content-type":"text/html; charset=UTF-8","transfer-encoding":"chunked","connection":"keep-alive","expires":"Thu, 19 Nov 1981 08:52:00 GMT","cache-control":"no-store, no-cache, must-revalidate, private, must-revalidate","pragma":"no-cache, no-cache","location":"https://www.workec.com/login?from=&jumpurl=http%3A%2F%2Fdata2.workec.com%2Fapp%2Flist","set-cookie":["XSRF-TOKEN=eyJpdiI6IlRUN3hiY2s4SDdkRm4zeXFFUTRFYXc9PSIsInZhbHVlIjoiXC84cCtDSklYNGRIS2duQjhCekIyeVNBOEZCTFJ5SU5FckJQRjBYTkRXTmVVQzNyS29NSEtGRHR6bnBjY3RLbDNBZGNIYkZSbHVRWmZoNEo3WWdKdXVBPT0iLCJtYWMiOiJmZTc0MTA2NDYwMGMzOWQxYTA5NTIzYWJhYmQxMDQxNDRkNmEyZTkxYTdmYzUyMDJjMWRlNGRiY2I1OGE4YjU1In0%3D; expires=Thu, 28-Jun-2018 09:34:37 GMT; Max-Age=7200; path=/; domain=workec.com","ecweb_session=eyJpdiI6IjBFbmlqZGh5d09lY1VHYUVFV1F3Z2c9PSIsInZhbHVlIjoiaVBCcnVmUTBUUTl5VStpYkl1RzNzV2E2QTZyMU1qeUJSQzRcL0VGbWdqUGtXNW01ekltdDJMNnBkOE40UzdYNFpyS0Y0Z3ZISURKSTl2Vm5GdGZKbFBnPT0iLCJtYWMiOiIyNWY3YWQ0YzdjOTJiYTE1NjljYmUwNDA2ODAyZDlkNDlmZjE2MzM1MzViZTZjMTAxNzVmMTBhYWI5NGExYzM5In0%3D; expires=Thu, 28-Jun-2018 09:34:37 GMT; Max-Age=7200; path=/; domain=workec.com; HttpOnly"],"x-powered-by":"dev-lnmp-145","x-request-id":"8b1ac6cab56e88c5e0ad9d91aec99d88"}
+    at JSON.parse (<anonymous>)
+    at parseJSON (E:\react_server2\ecserver\node_modules\urllib\lib\urllib.js:1006:24)
+    at E:\react_server2\ecserver\node_modules\urllib\lib\urllib.js:758:23
+    at decodeContent (E:\react_server2\ecserver\node_modules\urllib\lib\urllib.js:571:14)
+    at IncomingMessage.<anonymous> (E:\react_server2\ecserver\node_modules\urllib\lib\urllib.js:739:7)
+    at emitNone (events.js:110:20)
+    at IncomingMessage.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1059:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+name: 'JSONResponseFormatError'
+data: '<!DOCTYPE html>\n<html>\n    <head>\n        <meta charset="UTF-8" />\n        <meta http-equiv="refresh" content="1;url=https://www.workec.com/login?from=&amp;jumpurl=http%3A%2F%2Fdata2.workec.com%2Fapp%2Flist" />\n\n        <title>Redirecting to https://www.workec.com/login?from=&amp;jumpurl=http%3A%2F%2Fdata2.workec.com%2Fapp%2Flist</title>\n    </head>\n    <body>\n        Redirecting to <a href="https://www.workec.com/login?from=&amp;jumpurl=http%3A%2F%2Fdata2.workec.com%2Fapp%2Flist">https://www.workec.com/login?from=&amp;jumpurl=http%3A%2F%2Fdata2.workec.com%2Fapp%2Flist</a>.\n    </body>\n</html>'
+path: '/app/list'
+status: 302
+headers: { server: 'nginx', date: 'Thu, 28 Jun 2018 07:34:37 GMT', 'content-type': 'text/html; charset=UTF-8', 'transfer-encoding': 'chunked', connection: 'keep-alive', expires: 'Thu, 19 Nov 1981 08:52:00 GMT', 'cache-control': 'no-store, no-cache, must-revalidate, private, must-revalidate', pragma: 'no-cache, no-cache', location: 'https://www.workec.com/login?from=&jumpurl=http%3A%2F%2Fdata2.workec.com%2Fapp%2Flist', 'set-cookie': [ 'XSRF-TOKEN=eyJpdiI6IlRUN3hiY2s4SDdkRm4zeXFFUTRFYXc9PSIsInZhbHVlIjoiXC84cCtDSklYNGRIS2duQjhCekIyeVNBOEZCTFJ5SU5FckJQRjBYTkRXTmVVQzNyS29NSEtGRHR6bnBjY3RLbDNBZGNIYkZSbHVRWmZoNEo3WWdKdXVBPT0iLCJtYWMiOiJmZTc0MTA2NDYwMGMzOWQxYTA5NTIzYWJhYmQxMDQxNDRkNmEyZTkxYTdmYzUyMDJjMWRlNGRiY2I1OGE4YjU1In0%3D; expires=Thu, 28-Jun-2018 09:34:37 GMT; Max-Age=7200; path=/; domain=workec.com', 'ecweb_session=eyJpdiI6IjBFbmlqZGh5d09lY1VHYUVFV1F3Z2c9PSIsInZhbHVlIjoiaVBCcnVmUTBUUTl5VStpYkl1RzNzV2E2QTZyMU1qeUJSQzRcL0VGbWdqUGtXNW01ekltdDJMNnBkOE40UzdYNFpyS0Y0Z3ZISURKSTl2Vm5GdGZKbFBnPT0iLCJtYWMiOiIyNWY3YWQ0YzdjOTJiYTE1NjljYmUwNDA2ODAyZDlkNDlmZjE2MzM1MzViZTZjMTAxNzVmMTBhYWI5NGExYzM5In0%3D; expires=Thu, 28-Jun-2018 09:34:37 GMT; Max-Age=7200; path=/; domain=workec.com; HttpOnly' ], 'x-powered-by': 'dev-lnmp-145', 'x-request-id': '8b1ac6cab56e88c5e0ad9d91aec99d88' }
+res: { status: 302, statusCode: 302, headers: { server: 'nginx', date: 'Thu, 28 Jun 2018 07:34:37 GMT', 'content-type': 'text/html; charset=UTF-8', 'transfer-encoding': 'chunked', connection: 'keep-alive', expires: 'Thu, 19 Nov 1981 08:52:00 GMT', 'cache-control': 'no-store, no-cache, must-revalidate, private, must-revalidate', pragma: 'no-cache, no-cache', location: 'https://www.workec.com/login?from=&jumpurl=http%3A%2F%2Fdata2.workec.com%2Fapp%2Flist', 'set-cookie': [ 'XSRF-TOKEN=eyJpdiI6IlRUN3hiY2s4SDdkRm4zeXFFUTRFYXc9PSIsInZhbHVlIjoiXC84cCtDSklYNGRIS2duQjhCekIyeVNBOEZCTFJ5SU5FckJQRjBYTkRXTmVVQzNyS29NSEtGRHR6bnBjY3RLbDNBZGNIYkZSbHVRWmZoNEo3WWdKdXVBPT0iLCJtYWMiOiJmZTc0MTA2NDYwMGMzOWQxYTA5NTIzYWJhYmQxMDQxNDRkNmEyZTkxYTdmYzUyMDJjMWRlNGRiY2I1OGE4YjU1In0%3D; expires=Thu, 28-Jun-2018 09:34:37 GMT; Max-Age=7200; path=/; domain=workec.com', 'ecweb_session=eyJpdiI6IjBFbmlqZGh5d09lY1VHYUVFV1F3Z2c9PSIsInZhbHVlIjoiaVBCcnVmUTBUUTl5VStpYkl1RzNzV2E2QTZyMU1qeUJSQzRcL0VGbWdqUGtXNW01ekltdDJMNnBkOE40UzdYNFpyS0Y0Z3ZISURKSTl2Vm5GdGZKbFBnPT0iLCJtYWMiOiIyNWY3YWQ0YzdjOTJiYTE1NjljYmUwNDA2ODAyZDlkNDlmZjE2MzM1MzViZTZjMTAxNzVmMTBhYWI5NGExYzM5In0%3D; expires=Thu, 28-Jun-2018 09:34:37 GMT; Max-Age=7200; path=/; domain=workec.com; HttpOnly' ], 'x-powered-by': 'dev-lnmp-145', 'x-request-id': '8b1ac6cab56e88c5e0ad9d91aec99d88' }, size: 600, aborted: false, rt: 847, keepAliveSocket: false, data: '<!DOCTYPE html>\n<html>\n    <head>\n        <meta charset="UTF-8" />\n        <meta http-equiv="refresh" content="1;url=https://www.workec.com/login?from=&amp;jumpurl=http%3A%2F%2Fdata2.workec.com%2Fapp%2Flist" />\n\n        <title>Redirecting to https://www.workec.com/login?from=&amp;jumpurl=http%3A%2F%2Fdata2.workec.com%2Fapp%2Flist</title>\n    </head>\n    <body>\n        Redirecting to <a href="https://www.workec.com/login?from=&amp;jumpurl=http%3A%2F%2Fdata2.workec.com%2Fapp%2Flist">https://www.workec.com/login?from=&amp;jumpurl=http%3A%2F%2Fdata2.workec.com%2Fapp%2Flist</a>.\n    </body>\n</html>', requestUrls: [ 'https://data2.workec.com/app/list' ], timing: null, remoteAddress: '192.168.1.145', remotePort: 443 }
+pid: 5268
+hostname: RD-libotao
+
+2018-06-28 15:34:44,777 ERROR 2944 [-/127.0.0.1/-/201ms GET /my/applist] nodejs.TypeError: list.map is not a function
+    at Applist.render (evalmachine.<anonymous>:1645:22)
+    at processChild (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2204:18)
+    at resolve (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2061:5)
+    at ReactDOMServerRenderer.render (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2380:22)
+    at ReactDOMServerRenderer.read (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2354:19)
+    at Object.renderToString (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2726:25)
+    at Engine.renderToString (E:\react_server2\ecserver\node_modules\egg-view-react-ssr\lib\engine.js:66:27)
+    at reactElement.then.element (E:\react_server2\ecserver\node_modules\egg-view-react-ssr\lib\engine.js:54:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 2944
+hostname: RD-libotao
+
+2018-06-28 15:35:02,475 ERROR 14768 [-/127.0.0.1/-/209ms GET /my/applist] nodejs.TypeError: list.map is not a function
+    at Applist.render (evalmachine.<anonymous>:1645:22)
+    at processChild (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2204:18)
+    at resolve (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2061:5)
+    at ReactDOMServerRenderer.render (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2380:22)
+    at ReactDOMServerRenderer.read (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2354:19)
+    at Object.renderToString (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2726:25)
+    at Engine.renderToString (E:\react_server2\ecserver\node_modules\egg-view-react-ssr\lib\engine.js:66:27)
+    at reactElement.then.element (E:\react_server2\ecserver\node_modules\egg-view-react-ssr\lib\engine.js:54:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 14768
+hostname: RD-libotao
+
+2018-06-28 15:43:00,616 ERROR 15516 [-/127.0.0.1/-/197ms GET /my/applist] nodejs.TypeError: list.map is not a function
+    at Applist.render (evalmachine.<anonymous>:1645:22)
+    at processChild (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2204:18)
+    at resolve (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2061:5)
+    at ReactDOMServerRenderer.render (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2380:22)
+    at ReactDOMServerRenderer.read (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2354:19)
+    at Object.renderToString (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2726:25)
+    at Engine.renderToString (E:\react_server2\ecserver\node_modules\egg-view-react-ssr\lib\engine.js:66:27)
+    at reactElement.then.element (E:\react_server2\ecserver\node_modules\egg-view-react-ssr\lib\engine.js:54:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 15516
+hostname: RD-libotao
+
+2018-06-28 15:43:01,158 ERROR 15516 nodejs.InternalServerError: a security problem has been detected for url "https://www.workec.com/login?from=&jumpurl=http%3A%2F%2Fdata2.workec.com%2Fapp%2Flist", redirection is prohibited.
+    at Object.throw (E:\react_server2\ecserver\node_modules\koa\lib\context.js:93:11)
+    at Object.redirect (E:\react_server2\ecserver\node_modules\egg-security\lib\safe_redirect.js:69:34)
+    at Object.proto.(anonymous function) [as redirect] (E:\react_server2\ecserver\node_modules\delegates\index.js:40:31)
+    at MyService.getAppList (E:\react_server2\ecserver\app\service\my.js:15:17)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+message: 'a security problem has been detected for url "https://www.workec.com/login?from=&jumpurl=http%3A%2F%2Fdata2.workec.com%2Fapp%2Flist", redirection is prohibited.'
+pid: 15516
+hostname: RD-libotao
+
+2018-06-28 15:43:40,808 ERROR 9068 [-/127.0.0.1/-/196ms GET /my/applist] nodejs.TypeError: list.map is not a function
+    at Applist.render (evalmachine.<anonymous>:1645:22)
+    at processChild (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2204:18)
+    at resolve (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2061:5)
+    at ReactDOMServerRenderer.render (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2380:22)
+    at ReactDOMServerRenderer.read (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2354:19)
+    at Object.renderToString (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2726:25)
+    at Engine.renderToString (E:\react_server2\ecserver\node_modules\egg-view-react-ssr\lib\engine.js:66:27)
+    at reactElement.then.element (E:\react_server2\ecserver\node_modules\egg-view-react-ssr\lib\engine.js:54:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 9068
+hostname: RD-libotao
+
+2018-06-28 15:43:41,459 ERROR 9068 nodejs.InternalServerError: a security problem has been detected for url "https://www.workec.com/login?from=&jumpurl=http%3A%2F%2Fdata2.workec.com%2Fapp%2Flist", redirection is prohibited.
+    at Object.throw (E:\react_server2\ecserver\node_modules\koa\lib\context.js:93:11)
+    at Object.redirect (E:\react_server2\ecserver\node_modules\egg-security\lib\safe_redirect.js:69:34)
+    at Object.proto.(anonymous function) [as redirect] (E:\react_server2\ecserver\node_modules\delegates\index.js:40:31)
+    at MyService.getAppList (E:\react_server2\ecserver\app\service\my.js:16:17)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+message: 'a security problem has been detected for url "https://www.workec.com/login?from=&jumpurl=http%3A%2F%2Fdata2.workec.com%2Fapp%2Flist", redirection is prohibited.'
+pid: 9068
+hostname: RD-libotao
+
+2018-06-28 15:46:26,340 ERROR 5340 [-/127.0.0.1/-/195ms GET /my/applist] nodejs.TypeError: list.map is not a function
+    at Applist.render (evalmachine.<anonymous>:1645:22)
+    at processChild (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2204:18)
+    at resolve (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2061:5)
+    at ReactDOMServerRenderer.render (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2380:22)
+    at ReactDOMServerRenderer.read (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2354:19)
+    at Object.renderToString (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2726:25)
+    at Engine.renderToString (E:\react_server2\ecserver\node_modules\egg-view-react-ssr\lib\engine.js:66:27)
+    at reactElement.then.element (E:\react_server2\ecserver\node_modules\egg-view-react-ssr\lib\engine.js:54:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 5340
+hostname: RD-libotao
+
+2018-06-28 15:47:33,728 ERROR 5952 [-/127.0.0.1/-/1290ms GET /my/applist] nodejs.TypeError: list.map is not a function
+    at Applist.render (evalmachine.<anonymous>:1645:22)
+    at processChild (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2204:18)
+    at resolve (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2061:5)
+    at ReactDOMServerRenderer.render (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2380:22)
+    at ReactDOMServerRenderer.read (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2354:19)
+    at Object.renderToString (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2726:25)
+    at Engine.renderToString (E:\react_server2\ecserver\node_modules\egg-view-react-ssr\lib\engine.js:66:27)
+    at reactElement.then.element (E:\react_server2\ecserver\node_modules\egg-view-react-ssr\lib\engine.js:54:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 5952
+hostname: RD-libotao
+
+2018-06-28 15:47:59,133 ERROR 7312 [-/127.0.0.1/-/1356ms GET /my/applist] nodejs.TypeError: list.map is not a function
+    at Applist.render (evalmachine.<anonymous>:1645:22)
+    at processChild (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2204:18)
+    at resolve (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2061:5)
+    at ReactDOMServerRenderer.render (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2380:22)
+    at ReactDOMServerRenderer.read (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2354:19)
+    at Object.renderToString (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2726:25)
+    at Engine.renderToString (E:\react_server2\ecserver\node_modules\egg-view-react-ssr\lib\engine.js:66:27)
+    at reactElement.then.element (E:\react_server2\ecserver\node_modules\egg-view-react-ssr\lib\engine.js:54:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 7312
+hostname: RD-libotao
+
+2018-06-28 15:56:25,769 ERROR 12900 [-/127.0.0.1/-/1370ms GET /my/applist] nodejs.TypeError: list.map is not a function
+    at Applist.render (evalmachine.<anonymous>:1645:22)
+    at processChild (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2204:18)
+    at resolve (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2061:5)
+    at ReactDOMServerRenderer.render (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2380:22)
+    at ReactDOMServerRenderer.read (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2354:19)
+    at Object.renderToString (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2726:25)
+    at Engine.renderToString (E:\react_server2\ecserver\node_modules\egg-view-react-ssr\lib\engine.js:66:27)
+    at reactElement.then.element (E:\react_server2\ecserver\node_modules\egg-view-react-ssr\lib\engine.js:54:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 12900
+hostname: RD-libotao
+
+2018-06-28 15:59:44,637 ERROR 6708 [-/127.0.0.1/-/1193ms GET /my/applist] nodejs.TypeError: Cannot read property 'apps' of undefined
+    at Applist.render (evalmachine.<anonymous>:1640:38)
+    at processChild (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2204:18)
+    at resolve (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2061:5)
+    at ReactDOMServerRenderer.render (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2380:22)
+    at ReactDOMServerRenderer.read (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2354:19)
+    at Object.renderToString (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2726:25)
+    at Engine.renderToString (E:\react_server2\ecserver\node_modules\egg-view-react-ssr\lib\engine.js:66:27)
+    at reactElement.then.element (E:\react_server2\ecserver\node_modules\egg-view-react-ssr\lib\engine.js:54:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 6708
+hostname: RD-libotao
+
+2018-06-28 16:01:44,805 ERROR 8064 [-/127.0.0.1/-/1180ms GET /my/applist] nodejs.TypeError: Cannot read property 'apps' of undefined
+    at Applist.render (evalmachine.<anonymous>:1642:38)
+    at processChild (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2204:18)
+    at resolve (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2061:5)
+    at ReactDOMServerRenderer.render (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2380:22)
+    at ReactDOMServerRenderer.read (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2354:19)
+    at Object.renderToString (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2726:25)
+    at Engine.renderToString (E:\react_server2\ecserver\node_modules\egg-view-react-ssr\lib\engine.js:66:27)
+    at reactElement.then.element (E:\react_server2\ecserver\node_modules\egg-view-react-ssr\lib\engine.js:54:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 8064
+hostname: RD-libotao
+
+2018-06-28 16:02:35,784 ERROR 8064 [-/127.0.0.1/-/1185ms GET /my/applist] nodejs.TypeError: Cannot read property 'apps' of undefined
+    at Applist.render (evalmachine.<anonymous>:1642:38)
+    at processChild (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2204:18)
+    at resolve (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2061:5)
+    at ReactDOMServerRenderer.render (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2380:22)
+    at ReactDOMServerRenderer.read (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2354:19)
+    at Object.renderToString (E:\react_server2\ecserver\node_modules\react-dom\cjs\react-dom-server.node.development.js:2726:25)
+    at Engine.renderToString (E:\react_server2\ecserver\node_modules\egg-view-react-ssr\lib\engine.js:66:27)
+    at reactElement.then.element (E:\react_server2\ecserver\node_modules\egg-view-react-ssr\lib\engine.js:54:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 8064
+hostname: RD-libotao
+

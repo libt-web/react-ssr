@@ -1,0 +1,84 @@
+[
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "ACL",
+      "BIND",
+      "CHECKOUT",
+      "CONNECT",
+      "COPY",
+      "DELETE",
+      "GET",
+      "HEAD",
+      "LINK",
+      "LOCK",
+      "M-SEARCH",
+      "MERGE",
+      "MKACTIVITY",
+      "MKCALENDAR",
+      "MKCOL",
+      "MOVE",
+      "NOTIFY",
+      "OPTIONS",
+      "PATCH",
+      "POST",
+      "PROPFIND",
+      "PROPPATCH",
+      "PURGE",
+      "PUT",
+      "REBIND",
+      "REPORT",
+      "SEARCH",
+      "SUBSCRIBE",
+      "TRACE",
+      "UNBIND",
+      "UNLINK",
+      "UNLOCK",
+      "UNSUBSCRIBE"
+    ],
+    "paramNames": [],
+    "path": "/",
+    "regexp": "/^(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [
+      {
+        "name": 0,
+        "prefix": "",
+        "delimiter": "/",
+        "optional": true,
+        "repeat": false,
+        "partial": false,
+        "asterisk": false,
+        "pattern": "\\/.+"
+      }
+    ],
+    "path": "/my/applist(/.+)?",
+    "regexp": "/^\\/my\\/applist(?:((?:\\/.+)))?(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/__loader_trace__",
+    "regexp": "/^\\/__loader_trace__(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  }
+]

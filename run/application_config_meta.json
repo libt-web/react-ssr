@@ -1,0 +1,342 @@
+{
+  "siteFile": {
+    "/favicon.ico": "E:\\react_server2\\ecserver\\config\\config.default.js"
+  },
+  "logger": {
+    "consoleLevel": "E:\\react_server2\\ecserver\\config\\config.default.js",
+    "dir": "E:\\react_server2\\ecserver\\config\\config.default.js",
+    "encoding": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+    "env": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+    "level": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "E:\\react_server2\\ecserver\\config\\config.default.js",
+    "dir": "E:\\react_server2\\ecserver\\config\\config.default.js",
+    "maxAge": "E:\\react_server2\\ecserver\\config\\config.local.js",
+    "dynamic": "E:\\react_server2\\ecserver\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "E:\\react_server2\\ecserver\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "E:\\react_server2\\ecserver\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "E:\\react_server2\\ecserver\\node_modules\\egg-static\\config\\config.default.js"
+  },
+  "keys": "E:\\react_server2\\ecserver\\config\\config.default.js",
+  "middleware": "E:\\react_server2\\ecserver\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "port": "E:\\react_server2\\ecserver\\config\\config.default.js",
+      "path": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "webpack": {
+    "browser": "E:\\react_server2\\ecserver\\config\\config.default.js",
+    "webpackConfigList": "E:\\react_server2\\ecserver\\config\\config.local.js",
+    "port": "E:\\react_server2\\ecserver\\node_modules\\egg-webpack\\config\\config.default.js",
+    "proxy": "E:\\react_server2\\ecserver\\node_modules\\egg-webpack\\config\\config.default.js",
+    "proxyMapping": {
+      "js": "E:\\react_server2\\ecserver\\node_modules\\egg-webpack\\config\\config.default.js",
+      "css": "E:\\react_server2\\ecserver\\node_modules\\egg-webpack\\config\\config.default.js",
+      "json": "E:\\react_server2\\ecserver\\node_modules\\egg-webpack\\config\\config.default.js",
+      "html": "E:\\react_server2\\ecserver\\node_modules\\egg-webpack\\config\\config.default.js",
+      "map": "E:\\react_server2\\ecserver\\node_modules\\egg-webpack\\config\\config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "E:\\react_server2\\ecserver\\config\\config.local.js",
+    "ignoreDirs": "E:\\react_server2\\ecserver\\config\\config.local.js",
+    "fastReady": "E:\\react_server2\\ecserver\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "E:\\react_server2\\ecserver\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideDefault": "E:\\react_server2\\ecserver\\node_modules\\egg-development\\config\\config.default.js"
+  },
+  "reactssr": {
+    "injectCss": "E:\\react_server2\\ecserver\\config\\config.local.js",
+    "doctype": "E:\\react_server2\\ecserver\\node_modules\\egg-view-react-ssr\\config\\config.default.js",
+    "layout": "E:\\react_server2\\ecserver\\node_modules\\egg-view-react-ssr\\config\\config.default.js",
+    "manifest": "E:\\react_server2\\ecserver\\node_modules\\egg-view-react-ssr\\config\\config.default.js",
+    "injectHeadRegex": "E:\\react_server2\\ecserver\\node_modules\\egg-view-react-ssr\\config\\config.default.js",
+    "injectBodyRegex": "E:\\react_server2\\ecserver\\node_modules\\egg-view-react-ssr\\config\\config.default.js",
+    "injectJs": "E:\\react_server2\\ecserver\\node_modules\\egg-view-react-ssr\\config\\config.default.js",
+    "crossorigin": "E:\\react_server2\\ecserver\\node_modules\\egg-view-react-ssr\\config\\config.default.js",
+    "injectRes": "E:\\react_server2\\ecserver\\node_modules\\egg-view-react-ssr\\config\\config.default.js",
+    "fallbackToClient": "E:\\react_server2\\ecserver\\node_modules\\egg-view-react-ssr\\config\\config.default.js",
+    "afterRender": "E:\\react_server2\\ecserver\\node_modules\\egg-view-react-ssr\\config\\config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "E:\\react_server2\\ecserver\\config\\config.local.js",
+    "protocolWhiteList": "E:\\react_server2\\ecserver\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "E:\\react_server2\\ecserver\\node_modules\\egg-security\\config\\config.default.js",
+    "csrf": {
+      "enable": "E:\\react_server2\\ecserver\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "E:\\react_server2\\ecserver\\node_modules\\egg-security\\config\\config.default.js",
+      "ignoreJSON": "E:\\react_server2\\ecserver\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "E:\\react_server2\\ecserver\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "E:\\react_server2\\ecserver\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "E:\\react_server2\\ecserver\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "E:\\react_server2\\ecserver\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "E:\\react_server2\\ecserver\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xframe": {
+      "enable": "E:\\react_server2\\ecserver\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\react_server2\\ecserver\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "E:\\react_server2\\ecserver\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "E:\\react_server2\\ecserver\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "E:\\react_server2\\ecserver\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "E:\\react_server2\\ecserver\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "E:\\react_server2\\ecserver\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "E:\\react_server2\\ecserver\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "E:\\react_server2\\ecserver\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "E:\\react_server2\\ecserver\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\react_server2\\ecserver\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "E:\\react_server2\\ecserver\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\react_server2\\ecserver\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "E:\\react_server2\\ecserver\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "E:\\react_server2\\ecserver\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "E:\\react_server2\\ecserver\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "E:\\react_server2\\ecserver\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "session": {
+    "maxAge": "E:\\react_server2\\ecserver\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "E:\\react_server2\\ecserver\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "E:\\react_server2\\ecserver\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "E:\\react_server2\\ecserver\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "helper": {
+    "shtml": "E:\\react_server2\\ecserver\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "E:\\react_server2\\ecserver\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "E:\\react_server2\\ecserver\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "E:\\react_server2\\ecserver\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "E:\\react_server2\\ecserver\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "E:\\react_server2\\ecserver\\node_modules\\egg-onerror\\config\\config.default.js",
+    "templatePath": "E:\\react_server2\\ecserver\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "E:\\react_server2\\ecserver\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "E:\\react_server2\\ecserver\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "E:\\react_server2\\ecserver\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "E:\\react_server2\\ecserver\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "E:\\react_server2\\ecserver\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "E:\\react_server2\\ecserver\\node_modules\\egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "E:\\react_server2\\ecserver\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "E:\\react_server2\\ecserver\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "multipart": {
+    "autoFields": "E:\\react_server2\\ecserver\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "E:\\react_server2\\ecserver\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "E:\\react_server2\\ecserver\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "E:\\react_server2\\ecserver\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "E:\\react_server2\\ecserver\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "E:\\react_server2\\ecserver\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "E:\\react_server2\\ecserver\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "E:\\react_server2\\ecserver\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "E:\\react_server2\\ecserver\\node_modules\\egg-multipart\\config\\config.default.js"
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "E:\\react_server2\\ecserver\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "E:\\react_server2\\ecserver\\node_modules\\egg-schedule\\config\\config.default.js"
+    }
+  },
+  "logrotator": {
+    "filesRotateByHour": "E:\\react_server2\\ecserver\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "E:\\react_server2\\ecserver\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "E:\\react_server2\\ecserver\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "E:\\react_server2\\ecserver\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "E:\\react_server2\\ecserver\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "E:\\react_server2\\ecserver\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "E:\\react_server2\\ecserver\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "view": {
+    "root": "E:\\react_server2\\ecserver\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "E:\\react_server2\\ecserver\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "E:\\react_server2\\ecserver\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultViewEngine": "E:\\react_server2\\ecserver\\node_modules\\egg-view\\config\\config.default.js",
+    "mapping": {
+      ".js": "E:\\react_server2\\ecserver\\node_modules\\egg-view-react-ssr\\config\\config.default.js",
+      ".jsx": "E:\\react_server2\\ecserver\\node_modules\\egg-view-react-ssr\\config\\config.default.js"
+    }
+  },
+  "cors": "E:\\react_server2\\ecserver\\node_modules\\egg-cors\\config\\config.default.js",
+  "webpackreact": "E:\\react_server2\\ecserver\\node_modules\\egg-webpack-react\\config\\config.default.js",
+  "env": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+  "name": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "name": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+    "version": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+    "description": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+    "scripts": {
+      "build": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "build:test": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "build:prod": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "start": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "start:test": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "start:prod": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "kill-port": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "lint": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "fix": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "ii": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js"
+    },
+    "dependencies": {
+      "antd": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "babel-preset-stage-0": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "cross-env": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "egg": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "egg-cors": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "egg-logger": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "egg-validate": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "egg-view-react-ssr": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "extend": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "history": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "lodash": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "mockjs": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "moment": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "prop-types": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "react": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "react-dom": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "react-redux": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "react-router": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "react-router-config": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "react-router-dom": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "react-router-redux": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "redux": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "redux-thunk": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "autod-egg": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "autoprefixer": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "babel-eslint": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "babel-plugin-add-module-exports": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "babel-plugin-import": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "babel-plugin-syntax-dynamic-import": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "babel-plugin-transform-class-properties": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "babel-plugin-transform-decorators": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "babel-plugin-transform-decorators-legacy": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "babel-plugin-transform-object-assign": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "babel-plugin-transform-object-rest-spread": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "babel-plugin-transform-runtime": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "babel-preset-env": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "babel-preset-react": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "easywebpack-cli": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "easywebpack-react": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "egg-webpack": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "egg-webpack-react": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "eslint-config-egg": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "eslint-plugin-react": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "imagemin-webpack-plugin": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "ip": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "uglifyjs-webpack-plugin": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js"
+    },
+    "engines": {
+      "node": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js"
+    },
+    "ci": {
+      "version": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js"
+    },
+    "repository": {
+      "type": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "url": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js"
+    },
+    "author": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+    "license": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+    "homepage": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js"
+  },
+  "baseDir": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+    "strict": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "depth": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "httpclient": {
+    "enableDNSCache": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxAge": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+    "request": {
+      "timeout": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketKeepAliveTimeout": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketKeepAliveTimeout": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+    "logging": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+  "clusterClient": {
+    "maxWaitTime": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js",
+    "responseTimeout": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js"
+  },
+  "onClientError": "E:\\react_server2\\ecserver\\node_modules\\egg\\config\\config.default.js"
+}

@@ -1,0 +1,43 @@
+{
+  "applist.js": "/public/js/applist.js",
+  "layout.js": "/public/js/layout.js",
+  "common.js": "/public/js/common.js",
+  "vendor.js": "/public/js/vendor.js",
+  "deps": {
+    "applist.js": {
+      "js": [
+        "/public/js/vendor.js",
+        "/public/js/common.js",
+        "/public/js/applist.js"
+      ],
+      "css": []
+    },
+    "layout.js": {
+      "js": [
+        "/public/js/vendor.js",
+        "/public/js/common.js",
+        "/public/js/layout.js"
+      ],
+      "css": []
+    },
+    "common.js": {
+      "js": [
+        "/public/js/common.js",
+        "/public/js/common.js"
+      ],
+      "css": []
+    },
+    "vendor.js": {
+      "js": [
+        "/public/js/common.js",
+        "/public/js/vendor.js"
+      ],
+      "css": []
+    }
+  },
+  "info": {
+    "publicPath": "/public/",
+    "buildPath": "\\public",
+    "mapped": true
+  }
+}
